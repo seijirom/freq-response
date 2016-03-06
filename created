@@ -2,5 +2,7 @@
 comment: Created by ALB v2.0.0
 files:
 - pax_global_header
+- created
+- data.txt
 - nya_meas1.ipynb
 - rp_socket.rb
