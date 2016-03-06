@@ -4,5 +4,6 @@ files:
 - pax_global_header
 - created
 - data.txt
+- nya_gen_and_meas1.ipynb
 - nya_meas1.ipynb
 - rp_socket.rb
